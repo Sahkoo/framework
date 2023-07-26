@@ -1,0 +1,400 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1440px;
+  height: 872px;
+  top: 727px;
+  margin: 0 auto;
+}
+
+.text {
+  display: flex;
+  width: 1312px;
+  height: 321px;
+  padding-left: 70px;
+  padding-top: px;
+  margin: 0 auto;
+}
+
+.about-us {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 2.762500047683716px;
+  color: #99823D;
+
+}
+
+.its {
+  width: 655px;
+  height: 106px;
+  top: 21.0927734375px;
+  font-family: 'Teko', sans-serif;
+  font-size: 53px;
+  line-height: 53px;
+}
+
+.text1 {
+  width: 820px;
+  height: 320.90625px;
+  top: -0.0927734375px;
+
+}
+
+.lorem1 {
+  width: 683px;
+  height: 51px;
+  top: 155.0927734375px;
+  left: 68px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  padding-top: 20px;
+}
+
+.lorem2 {
+  width: 684px;
+  height: 102px;
+  top: 222.0927734375px;
+  left: 68px;
+  font-family: Open Sans;
+  font-size: 17px;
+  font-weight: 400;
+  padding-top: 30px;
+}
+
+.text2 {
+  width: 424px;
+  height: 321px;
+  left: 820px;
+}
+
+.col1 {
+  width: 424px;
+  height: 159px;
+  top: 1px;
+}
+
+.bloc1 {
+  display: flex;
+  width: 181.21875px;
+  height: 32.90625px;
+  top: 36.9228515625px;
+  left: 34px;
+  padding: 0px 0.21875px 16.8291015625px 0px;
+}
+
+.news1 {
+  font-family: Open Sans;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 2.762500047683716px;
+  text-align: left;
+  color: #99823d;
+}
+
+.minus1 {
+  width: 7px;
+  height: 17px;
+  top: -0.9228515625px;
+  left: 61px;
+  color: #99823d;
+  padding-left: 22px;
+}
+
+.mar1 {
+  width: 96px;
+  height: 17px;
+  top: -0.9228515625px;
+  left: 85px;
+  padding-left: 22px;
+  font-family: Open Sans;
+  font-size: 11px;
+  font-weight: 400;
+  color: #99823d;
+}
+
+.incidunt {
+  width: 323px;
+  height: 53px;
+  top: 64px;
+  left: 34px;
+  font-family: Teko;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 26px;
+  color: black;
+}
+
+.col2 {
+  width: 424px;
+  height: 159px;
+  top: 161px;
+}
+
+.bloc2 {
+  display: flex;
+}
+
+.news2 {
+  font-family: Open Sans;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 17px;
+  letter-spacing: 2.762500047683716px;
+  text-align: left;
+  color: #99823d;
+}
+
+.minus2 {
+  color: #99823d;
+  padding-left: 22px;
+}
+
+.mar2 {
+  padding-left: 22px;
+  width: 96px;
+  height: 17px;
+  top: -0.8759765625px;
+  left: 85px;
+  font-family: Open Sans;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 17px;
+  color: #99823D;
+}
+
+.excepturi {
+  width: 339px;
+  height: 53px;
+  top: 64px;
+  left: 34px;
+  font-family: Teko;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.k {
+  display: flex;
+  justify-content: center;
+  width: 1312px;
+  height: 75px;
+  top: 524.8125px;
+  left: 64px;
+  margin: 0 auto;
+  padding-top: 58px;
+}
+
+.k500 {
+  width: 113px;
+  height: 71px;
+  top: 2.1875px;
+  left: 71px;
+}
+
+.projects500 {
+  width: 120px;
+  height: 59px;
+  font-family: Teko;
+  font-size: 59px;
+  line-height: 59px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.projects {
+  width: 78px;
+  height: 18px;
+  padding-left: 10px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2.9749999046325684px;
+  text-align: center;
+  color: #99823D;
+  margin: 0 auto;
+}
+
+.k575 {
+  width: 112px;
+  height: 74px;
+  top: 0.1875px;
+  left: 336px;
+}
+
+.sketches575 {
+  width: 119px;
+  height: 59px;
+  top: -7px;
+  left: -4px;
+  font-family: Teko;
+  font-size: 59px;
+  font-weight: 700;
+  line-height: 59px;
+  letter-spacing: 0em;
+  text-align: center;
+
+}
+
+.sketches {
+  width: 84px;
+  height: 18px;
+  top: 56px;
+  left: 15px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2.9749999046325684px;
+  text-align: center;
+  color: #99823D;
+  margin: 0 auto;
+}
+
+.k250 {
+  width: 126px;
+  height: 59px;
+  top: -6px;
+  left: -4px;
+  font-family: Teko;
+  font-size: 59px;
+  font-weight: 700;
+  line-height: 59px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.clients {
+  width: 72px;
+  height: 18px;
+  top: 57px;
+  left: 24px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2.9749999046325684px;
+  text-align: center;
+  margin: 0 auto;
+  color: #99823D;
+}
+
+.k365 {
+  width: 123px;
+  height: 59px;
+  top: -7px;
+  left: -2px;
+  font-family: Teko;
+  font-size: 59px;
+  font-weight: 700;
+  line-height: 59px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.likes {
+  width: 47px;
+  height: 18px;
+  top: 56px;
+  left: 36px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2.9749999046325684px;
+  text-align: center;
+  color: #99823D;
+  margin: 0 auto;
+}
+
+.k500-2 {
+  width: 113px;
+  height: 71px;
+  top: 2.1875px;
+  left: 1127px;
+}
+
+.awards500 {
+  width: 120px;
+  height: 59px;
+  top: -8px;
+  left: -3px;
+  font-family: Teko;
+  font-size: 59px;
+  font-weight: 700;
+  line-height: 59px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.awards {
+  width: 66px;
+  height: 18px;
+  top: 53px;
+  left: 25px;
+  font-family: Open Sans;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 2.9749999046325684px;
+  text-align: center;
+  color: #99823D;
+  margin: 0 auto;
+}
+
+.frames {
+  justify-content: center;
+  width: 1338px;
+  height: 342.296875px;
+  top: 0.45751953125px;
+  left: -17px;
+  padding: 0px 17.03125px 0px 17.015625px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.frame1 {
+  width: 411.984375px;
+  height: 342.296875px;
+  left: 17.015625px;
+}
+
+.frame2 {
+  width: 411.984375px;
+  height: 342.296875px;
+  left: 463px;
+  padding-left: 35px;
+}
+
+.frame3 {
+  width: 411.984375px;
+  height: 342.296875px;
+  left: 908.984375px;
+  padding-left: 35px;
+}
+
+.rectangle {
+  width: 11px;
+  height: 11px;
+  top: 405px;
+  left: 647px;
+  margin: 0 auto;
+  background: #222222;
+  padding: 2px;
+  ;
+}
+
+.rect {
+  width: 9px;
+  height: 9px;
+  background: #99823D;
+  margin-left: 68px;
+  margin-right: 68px;
+}
