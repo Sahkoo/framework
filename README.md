@@ -1,2 +1,2 @@
-# https://sahkoo.github.io/framework/
+# framework
 https://sahkoo.github.io/framework/
